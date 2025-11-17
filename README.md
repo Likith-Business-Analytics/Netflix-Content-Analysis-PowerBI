@@ -20,20 +20,18 @@ This dashboard enables users to explore the dataset using filters such as **Show
 ## Dataset
 
 **Source:** Public Netflix Titles Dataset (Kaggle)
+
 **Dataset :** <a href="https://github.com/Likith-Business-Analytics/Netflix-Content-Analysis-PowerBI/blob/main/netflix_titles.csv"> netflix_titles <a/>
 
 **Key Columns Used**
 
 * `show_id` – Unique identifier
 * `type` – Movie / TV Show
-* `title` – Show name
 * `director` – List of directors (cleaned to extract first director)
-* `cast` – Actors
 * `country` – Country of production (cleaned to first country name)
 * `date_added`
 * `release_year`
 * `rating`
-* `duration`
 
 ---
 
@@ -81,8 +79,6 @@ Used: **Extract → Text Before Delimiter “,”**
 Similar cleaning applied to the `director` column to ensure only 1 director is analyzed.
 
 **3. Trim & Clean Data**
-
-* Removed nulls and duplicates
 * Standardized text formats
 * Ensured proper Date and Duration formatting
 
@@ -106,6 +102,11 @@ Used a single clean fact table with DAX measures for calculations.
 5. Added filters for Show Type, Release Year, and Country
 6. Designed a dark-themed Netflix-style dashboard
 7. Published final PBIX + documentation
+
+---
+## Dashboard
+
+<img width="1151" height="647" alt="image" src="https://github.com/user-attachments/assets/459dacc1-72e8-4142-aff9-c652ce99c6c6" />
 
 ---
 

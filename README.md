@@ -129,7 +129,3 @@ It helps understand:
 * Trends in Movies vs TV Shows
 * Global distribution patterns
 * Metadata gaps (directors, countries, ratings)
-
-
-If you want, I can also help you format it using **Markdown styling**, add emojis, or structure it in a more premium GitHub style.
-Would you like a **GitHub repository name + tags + description** too?

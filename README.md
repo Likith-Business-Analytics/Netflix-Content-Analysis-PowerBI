@@ -87,7 +87,7 @@ Used a single clean fact table with DAX measures for calculations.
 
 ---
 
-## Process / Workflow**
+## Process / Workflow
 
 1. Imported dataset (`netflix_titles.csv`) into Power BI
 2. Cleaned and transformed data using Power Query

@@ -100,7 +100,6 @@ Used a single clean fact table with DAX measures for calculations.
    * Global map (Country distribution)
 5. Added filters for Show Type, Release Year, and Country
 6. Designed a dark-themed Netflix-style dashboard
-7. Published final PBIX + documentation
 
 ---
 ## Dashboard

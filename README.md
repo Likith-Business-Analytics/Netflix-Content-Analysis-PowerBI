@@ -55,7 +55,7 @@ The dashboard uses DAX measures to calculate essential KPIs:
 * Total TV Shows
 * Total Directors
 
-**KPIs**
+**Displayed KPIs**
 
 * Total Shows
 * Total Movies

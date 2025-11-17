@@ -19,10 +19,10 @@ This dashboard enables users to explore the dataset using filters such as **Show
 
 ## Dataset
 
-**Dataset Name:** `netflix_titles.csv`
 **Source:** Public Netflix Titles Dataset (Kaggle)
+**Dataset :** <a href="https://github.com/Likith-Business-Analytics/Netflix-Content-Analysis-PowerBI/blob/main/netflix_titles.csv"> netflix_titles <a/>
 
-** Key Columns Used**
+**Key Columns Used**
 
 * `show_id` – Unique identifier
 * `type` – Movie / TV Show

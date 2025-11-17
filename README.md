@@ -60,7 +60,6 @@ The dashboard uses DAX measures to calculate essential KPIs:
 * Total Shows
 * Total Movies
 * Total TV Shows
-* Total Countries (derived from country column)
 
 ---
 

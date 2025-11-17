@@ -13,7 +13,7 @@ The primary objective of this project is to **analyze Netflix’s global content
 * Director and rating-based content trends
 * Key metrics that summarize platform expansion
 
-This dashboard enables users to explore the dataset using filters such as **Show Type, Release Year, and Country**, allowing for a fully interactive analytical experience.
+This dashboard enables users to explore the dataset using filters such as **Show Type, Release Year, and Country** allowing for a fully interactive analytical experience.
 
 ---
 

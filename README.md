@@ -106,7 +106,7 @@ Used a single clean fact table with DAX measures for calculations.
 
 <img width="1151" height="647" alt="image" src="https://github.com/user-attachments/assets/459dacc1-72e8-4142-aff9-c652ce99c6c6" />
 
----
+
 
 ## Insights
 
@@ -118,7 +118,7 @@ Some important insights obtained from the analysis:
 * The United States, India, UK, and Canada appear as top content-producing countries.
 * A large number of titles have **no assigned director** due to missing metadata.
 
----
+
 
 ## Conclusion
 
